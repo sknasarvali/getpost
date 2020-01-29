@@ -1,4 +1,4 @@
-["profiles":[
+{"profiles":[
   {
     "id": 1,
     "title": "Post 1",
@@ -18,4 +18,4 @@
      "salary":10000
   }
 ]
-]
+}
